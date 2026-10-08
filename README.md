@@ -2,9 +2,9 @@
 ## THÔNG TIN SINH VIÊN
 - **Họ và tên: Nguyễn Hải Long
 - **Mã số sinh viên: 24810320154
-- **Lớp:** 20DTHxx
+- **Lớp:D19QTANM1
 - **Tên môn học: Lập trình net
-- **Tên bài tập: bai4 
+- **Tên bài tập: bai1
 ## KẾT QUẢ THỰC HÀNH
 
 ### 1. Ảnh màn hình Giao diện chính
